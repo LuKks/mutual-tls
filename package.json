@@ -1,0 +1,28 @@
+{
+  "name": "mutual-tls",
+  "version": "0.0.0",
+  "description": "Create your own Root CA, and new signed certificates",
+  "main": "index.js",
+  "files": [],
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukks/mutual-tls.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukks/mutual-tls/issues"
+  },
+  "homepage": "https://github.com/lukks/mutual-tls#readme",
+  "devDependencies": {
+    "brittle": "^3.3.2",
+    "like-bind": "^1.0.0",
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "node-forge": "^1.3.1"
+  }
+}
