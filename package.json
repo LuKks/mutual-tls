@@ -1,6 +1,6 @@
 {
   "name": "mutual-tls",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create your own Root CA, and new signed certificates",
   "main": "index.js",
   "files": [],
